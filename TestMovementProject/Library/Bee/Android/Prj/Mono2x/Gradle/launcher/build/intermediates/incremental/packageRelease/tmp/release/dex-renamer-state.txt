@@ -1,4 +1,0 @@
-#Thu Sep 05 14:12:01 EEST 2024
-base.0=C\:\\Users\\PC\\TestMovementProject\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
